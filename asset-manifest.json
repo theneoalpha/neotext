@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/neotext/static/css/main.073c9b0a.css",
+    "main.js": "/neotext/static/js/main.7ffe6207.js",
+    "static/js/787.789bd85f.chunk.js": "/neotext/static/js/787.789bd85f.chunk.js",
+    "index.html": "/neotext/index.html",
+    "main.073c9b0a.css.map": "/neotext/static/css/main.073c9b0a.css.map",
+    "main.7ffe6207.js.map": "/neotext/static/js/main.7ffe6207.js.map",
+    "787.789bd85f.chunk.js.map": "/neotext/static/js/787.789bd85f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7ffe6207.js"
+  ]
+}
